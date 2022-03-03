@@ -32,7 +32,7 @@ ___
 |ABC | 456@gmail.com
 
 ___
-#### Task lists(with checkbox)
+#### Task lists(with checkbox in README)
 <!-- [x] for completed and [] for not completed -->
 *[x] Task 1
 *[x] Task 2
